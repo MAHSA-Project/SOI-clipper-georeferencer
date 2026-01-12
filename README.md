@@ -1,0 +1,1 @@
+# SOI-clipper-georeferencer
